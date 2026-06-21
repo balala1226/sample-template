@@ -1,2 +1,2 @@
 # sample-template
-test-template
+sample dev branch for template testing
